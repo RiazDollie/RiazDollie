@@ -1,6 +1,6 @@
 I'm Riaz, I am a passionate beginner software developer with a keen interest in building innovative and efficient solutions.
 Recently diving into the world of coding, I have developed foundational skills in JavaScript and HTML/CSS,
-and I am eager to expand my expertise further.
+and I am eager to expand my expertise further. Current 2nd Year Student at CPUT studying a Bachleors in Computer Engineering
 
 LinkedIn: https://www.linkedin.com/in/dollie-riaz-b39647300/
 
